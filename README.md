@@ -1,15 +1,15 @@
 # KNU_AICOSS_Project
 
-![산학논문_오픈-1](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/a7035ffd-e2e4-4836-a4f3-4318c2d89ccb)
+![산학논문_오픈-0](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/44314c3d-3c8c-466e-a6d8-d576ce806621)
 
-![산학논문_오픈-2](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/36dd7ee0-25d2-4efe-b1a3-ef2526a03551)
+![산학논문_오픈-1](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/ff037556-9e8c-4eaf-8d52-0f937dc28502)
 
-![산학논문_오픈-3](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/78cd3839-6186-4490-b728-e97dab5e3152)
+![산학논문_오픈-2](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/63dad457-dce8-4a1f-94b4-a575538e152e)
 
-![산학논문_오픈-4](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/1b14fd24-fac0-42cc-9e36-5afead0fff43)
+![산학논문_오픈-3](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/5c4473ec-17b7-464f-bac5-f745983d1733)
 
-![산학논문_오픈-5](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/276a5c3b-c9e9-4843-9d90-64ad50c3e0f5)
+![산학논문_오픈-4](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/226293fe-836b-48bd-9a0d-53818a5335e5)
 
-![산학논문_오픈-6](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/296e619f-189a-487d-bef9-d325cf0061d5)
+![산학논문_오픈-5](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/708cce7a-cb21-4b4a-b78e-8a4cbbf6553a)
 
-![산학논문_오픈-7](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/76f08cd2-0407-4e6e-8001-5bfe9b0cb851)
+![산학논문_오픈-6](https://github.com/moonstar0301/KNU_AICOSS_Project/assets/112082163/50bfc219-be79-4489-a703-47192a59e066)
